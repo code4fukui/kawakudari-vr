@@ -1,5 +1,7 @@
 # kawakudari-vr
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A simple VR game where the player avoids obstacles in a downward scrolling environment.
 
 ## Demo
