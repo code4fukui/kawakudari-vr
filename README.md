@@ -23,4 +23,4 @@ This project is designed to run in a web browser and uses the A-Frame library fo
 4. The game will end when the player collides with an obstacle or reaches the end of the level.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+MIT License — see [LICENSE](LICENSE).
